@@ -30,11 +30,11 @@ Example of a long unedited walk through a busy park and street with many distrac
 Example of a long unedited bike ride. This scenario would be difficult for the camera operator had he not been using the automated system.
 
 <div align="center">
-  <a href="https://www.youtube.com/edit?o=U&video_id=qLkCwRazyOc"><img src="https://img.youtube.com/vi/qLkCwRazyOc/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=KxOM0KNRgsE"><img src="https://img.youtube.com/vi/KxOM0KNRgsE/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 
-Another example of a long unedited bike ride. FIX
+Another example of a long unedited bike ride.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=fgJdUXFbPwY"><img src="https://img.youtube.com/vi/fgJdUXFbPwY/0.jpg" alt="IMAGE ALT TEXT"></a>
