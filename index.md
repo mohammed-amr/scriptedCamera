@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CYAt0FLfwfk"><img src="https://img.youtube.com/vi/CYAt0FLfwfk/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
