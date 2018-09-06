@@ -1,6 +1,6 @@
 Scripted Camera Control Through Visual Tracking
 
-Note that at rare times, the frame rate of the system drops from ~50Hz to ~14Hz and the camera loses track for a while before regaining or needing user input. This is due to the poor thermal design of the laptop being used (the XPS 15). When it gets too hot it throttles the CPU and GPU. 
+Note that at rare times, the frame rate of the system drops from ~50Hz to ~14Hz and the camera loses track for a while before regaining or needing user input. This is due to the poor thermal design of the laptop being used (the XPS 15). When it gets too hot it throttles the CPU and GPU. You can find a frame rate value on the top left.
 
 Not that in all of these examples, no pre training happened to better understand the appearance of the target. The target was not asked to slowly rotate before intense filming starts to improve the featur encoding history later on. This is the hardest setting for the system.
 
