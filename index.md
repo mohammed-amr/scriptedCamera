@@ -4,6 +4,8 @@ Note that at rare times, the frame rate of the system drops from ~50Hz to ~14Hz 
 
 Not that in all of these examples, no pre training happened to better understand the appearance of the target. The target was not asked to slowly rotate before intense filming starts to improve the featur encoding history later on. This is the hardest setting for the system.
 
+Please turn on captons to see notes. 
+
 Example of multi target tracking (unedited). 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=PxG0FxY25w4"><img src="https://img.youtube.com/vi/PxG0FxY25w4/0.jpg" alt="IMAGE ALT TEXT"></a>
