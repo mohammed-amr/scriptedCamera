@@ -6,6 +6,8 @@ Not that in all of these examples, no pre training happened to better understand
 
 Please turn on captons to see notes. 
 
+All footage is from the system debug recordings. The star camera footage was not yet edited at the time of submission. 
+
 Example of multi target tracking (unedited). 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=PxG0FxY25w4"><img src="https://img.youtube.com/vi/PxG0FxY25w4/0.jpg" alt="IMAGE ALT TEXT"></a>
