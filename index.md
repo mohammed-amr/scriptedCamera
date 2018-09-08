@@ -8,18 +8,6 @@ Please turn on captons to see notes.
 
 All footage is from the system debug recordings. The star camera footage was not yet edited at the time of submission. 
 
-Example of multi target tracking (unedited). 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=PxG0FxY25w4"><img src="https://img.youtube.com/vi/PxG0FxY25w4/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
-
-Another example of multi target tracking. 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=610Wl6360lg"><img src="https://img.youtube.com/vi/610Wl6360lg/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
-
-
-
 Example of stairs scenario. 
 
 <div align="center">
@@ -50,6 +38,17 @@ An example of scripted motion.
 <div align="center">
   <a href="https://www.youtube.com/watch?v=9tLRgpuSbaI"><img src="https://img.youtube.com/vi/9tLRgpuSbaI/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
+Example of multi target tracking (unedited). 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=PxG0FxY25w4"><img src="https://img.youtube.com/vi/PxG0FxY25w4/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
+Another example of multi target tracking. 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=610Wl6360lg"><img src="https://img.youtube.com/vi/610Wl6360lg/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 
 Deliberate use of a wrong cost function to illustrate a point. When detections are noisy, using the kalman filter association model to eliminate what it thinks are bad track/detection combinations is a bad idea. This is explained in detail in the text. 
 <div align="center">
